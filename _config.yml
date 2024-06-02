@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "必应AI", href: "bing.130202.xyz" },
+    { title: "必应AI", href: "https://bing.130202.xyz/" },
   ]
